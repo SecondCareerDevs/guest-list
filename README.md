@@ -18,4 +18,5 @@
 | Johnny Grubb | @JohnnyGrubb | Musician |
 | David Kaye | @dfkaye | Outreach Ministry |
 | Oliver Turner | @oliverturner | Law |
+| JR Frazier | @jr_frazier1 | |
 
