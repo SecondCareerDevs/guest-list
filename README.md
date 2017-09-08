@@ -19,4 +19,6 @@
 | David Kaye | @dfkaye | Outreach Ministry |
 | Oliver Turner | @oliverturner | Law |
 | JR Frazier | @jr_frazier1 | |
+| Aimee Knight | @Aimee_Knight | Figure Skater |
+| Ken Wheeler | @ken_wheeler | |
 
