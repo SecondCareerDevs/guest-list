@@ -6,4 +6,6 @@
 | Kelly Furness | @knfurness | Teacher |
 | Emily Freeman | @editingemily | Writer |
 | CodeRabbi | @coderabbi | Marketer and Rabbi |
+| Paul McBride | @ThePaulMcBride | Military |
+| Caitlyn Tetmeyer | @CaitlynTetmeyer | Peace Corps |
 
