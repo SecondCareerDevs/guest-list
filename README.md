@@ -21,4 +21,7 @@
 | JR Frazier | @jr_frazier1 | |
 | Aimee Knight | @Aimee_Knight | Figure Skater |
 | Ken Wheeler | @ken_wheeler | |
+| Jessica Grist | @thehackstress | Dancer, Costumer, Teacher |
+| Matt Rasband | @mattrasband | Financial Advisor |
+| Aaron Trank | @AaronTrank | Christian Minister |
 
