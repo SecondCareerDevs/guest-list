@@ -24,4 +24,7 @@
 | Jessica Grist | @thehackstress | Dancer, Costumer, Teacher |
 | Matt Rasband | @mattrasband | Financial Advisor |
 | Aaron Trank | @AaronTrank | Christian Minister |
+| Priyanka Shah | email in DM from Suhas | Scientist doing Alzheimer's Research |
+| Niko | @codeswitched | |
+| Whitney Williams | @whitneyhacks | Fine Arts |
 
