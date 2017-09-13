@@ -27,4 +27,5 @@
 | Priyanka Shah | email in DM from Suhas | Scientist doing Alzheimer's Research |
 | Niko | @codeswitched | |
 | Whitney Williams | @whitneyhacks | Fine Arts |
+| Kye Hohenberger | @tkh44 | Construction |
 
