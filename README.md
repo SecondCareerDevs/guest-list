@@ -8,7 +8,7 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Kelly Furness | @knfurness | Teacher | ❌ | ❌ |
 | Emily Freeman | @editingemily | Writer | ❌ | ❌ |
 | CodeRabbi | @coderabbi | Marketer and Rabbi | ❌ | ❌ |
-| Paul McBride | @ThePaulMcBride | Military | ❌ | ❌ |
+| Paul McBride | @ThePaulMcBride | Military | ✅ | ✅ |
 | Caitlyn Tetmeyer | @CaitlynTetmeyer | Peace Corps | ❌ | ❌ |
 | | @thestephwells | | ❌ | ❌ |
 | | @_lbaillie | Comic Artist | ❌ | ❌ |
