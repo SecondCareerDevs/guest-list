@@ -16,7 +16,7 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | | @vaidehijoshi | Writer | ❌ | ❌ |
 | | @saronyitbarek | Writer | ❌ | ❌ |
 | Sal Hernandez | @clickclickonsal | Mechanic | ❌ | ❌ |
-| Sonia Gupta | @soniagupta504 | | ❌ | ❌ |
+| Sonia Gupta | @soniagupta504 | | ✅ | ✅ |
 | Johnny Grubb | @JohnnyGrubb | Musician | ❌ | ❌ |
 | David Kaye | @dfkaye | Outreach Ministry | ❌ | ❌ |
 | Oliver Turner | @oliverturner | Law | ❌ | ❌ |
