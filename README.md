@@ -22,7 +22,7 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Oliver Turner | @oliverturner | Law | ❌ | ❌ |
 | JR Frazier | @jr_frazier1 | | ❌ | ❌ |
 | Aimee Knight | @Aimee_Knight | Figure Skater | ❌ | ❌ |
-| Ken Wheeler | @ken_wheeler | | ❌ | ❌ |
+| Ken Wheeler | @ken_wheeler | What hasn't this guy done? | ❌ | ❌ |
 | Jessica Grist | @thehackstress | Dancer, Costumer, Teacher | ❌ | ❌ |
 | Matt Rasband | @mattrasband | Financial Advisor | ❌ | ❌ |
 | Aaron Trank | @AaronTrank | Christian Minister | ❌ | ❌ |
