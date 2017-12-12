@@ -34,3 +34,4 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Chris DeMars | @saltnburnem | Truck Driver | ❌ | ❌ |
 | Shane Barringer   | @shanebarringer  | B2B Sales  | ❌ | ❌ |
 | Ryan Florence | @ryanflorence | Sales | ❌ | ❌ |
+| Claire Nied | emailed you directly | Exhibit/Environmental Design | ✅ | ❌ |
