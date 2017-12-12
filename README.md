@@ -32,3 +32,4 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Kye Hohenberger | @tkh44 | Construction | ❌ | ❌ |
 | Sarah Drasner | @sarah_edo | Teacher | ❌ | ❌ |
 | Chris DeMars | @saltnburnem | Truck Driver | ❌ | ❌ |
+| Shane Barringer   | @shanebarringer  | B2B Sales  | ❌ | ❌ |
