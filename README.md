@@ -35,3 +35,5 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Shane Barringer   | @shanebarringer  | B2B Sales  | ❌ | ❌ |
 | Ryan Florence | @ryanflorence | Sales | ❌ | ❌ |
 | Claire Niederberger | @clairenied | Exhibit/Environmental Design | ✅ | ✅ |
+| Marty Himmel | @MartyHimmel | Dental Technician | ❌ | ❌ |
+
