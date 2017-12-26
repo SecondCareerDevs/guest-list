@@ -37,4 +37,4 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Claire Niederberger | @clairenied | Exhibit/Environmental Design | ✅ | ✅ |
 | Marty Himmel | @MartyHimmel | Dental Technician | ❌ | ❌ |
 | Tracy Lee | @ladyleet | CEO of Food Startup | ❌ | ❌ |
-| Sean Stickle | @seanstickle | Nuclear Reactor Operator | ❌ | ❌ |
+| Seán Stickle | @seanstickle | VP & Chief Strategy Officer at the Physician Assistant Education Association | ❌ | ❌ |
