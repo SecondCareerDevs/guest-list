@@ -39,3 +39,4 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 | Tracy Lee | @ladyleet | CEO of Food Startup | ❌ | ❌ |
 | Seán Stickle | @seanstickle | VP & Chief Strategy Officer at the Physician Assistant Education Association | ❌ | ❌ |
 | Bobby Johnson | @notmyself | Developer Advocate @ Auth0 | ❌ | ❌ |
+| @swyx | @swyx | Options Trader/ Hedge Fund Analyst => Software Eng at Two Sigma | ❌ | ❌ |
