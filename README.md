@@ -2,6 +2,16 @@
 
 These are guest names I gathered in the fall that I plan to reach out to. If you have a second career story you'd like to share, please submit a PR to add your name and I'll contact you for details. Thanks!
 
+## Template for adding a row
+
+Copy the snippet below, add your details and submit a PR!
+
+```
+| Full Name | @twitterHandle | Previous Career | ❌ | ❌ |
+```
+
+## The List
+
 | Name | Contact | Info | Scheduled? | Recorded? |
 |---|---|---|---|---|
 | Ashly LaMarr | @SurlyMae | | ❌ | ❌ |
