@@ -1,12 +1,14 @@
-## Who are you and what do you do now?
+Follow this template in your PR title: `Adding <your_name>`
+
+### Who are you and what do you do now?
 
 
 
-## What was/were your previous career(s)?
+### What was/were your previous career(s)?
 
 
 
-## What aspects of your story do you want to share with the Second Career Devs audience?
+### What aspects of your story do you want to share with the Second Career Devs audience?
 
 
 
