@@ -52,3 +52,4 @@ Copy the snippet below, add your details and submit a PR!
 | @swyx | @swyx | Options Trader/ Hedge Fund Analyst => Software Eng at Two Sigma | ❌ | ❌ |
 | Andrew Cook | @codingwcookie | EMT | ✅ | ✅ |
 | Telmo Goncalves | @telmo | Warehouse Worker | ❌ | ❌ |
+| Christina Gorton| @coffeecraftcode | nanny, housekeeper at nursing home, stay at home mom  | ❌ | ❌ |
