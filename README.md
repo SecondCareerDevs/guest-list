@@ -14,7 +14,7 @@ Copy the snippet below, add your details and submit a PR!
 
 | Name | Contact | Info | Scheduled? | Recorded? |
 |---|---|---|---|---|
-| Ashly LaMarr | @SurlyMae | | ❌ | ❌ |
+| Ashly LaMarr | @SurlyMae | | ✅ | ❌ |
 | Kelly Furness | @knfurness | Teacher | ❌ | ❌ |
 | Emily Freeman | @editingemily | Writer | ❌ | ❌ |
 | CodeRabbi | @coderabbi | Marketer and Rabbi | ❌ | ❌ |
@@ -53,3 +53,4 @@ Copy the snippet below, add your details and submit a PR!
 | Andrew Cook | @codingwcookie | EMT | ✅ | ✅ |
 | Telmo Goncalves | @telmo | Warehouse Worker | ❌ | ❌ |
 | Christina Gorton| @coffeecraftcode | nanny, housekeeper at nursing home, stay at home mom  | ❌ | ❌ |
+| Madison Kanna | @MadisonKanna | Fashion Model | ❌ | ❌ |
