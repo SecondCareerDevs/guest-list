@@ -55,3 +55,4 @@ Copy the snippet below, add your details and submit a PR!
 | Christina Gorton| @coffeecraftcode | nanny, housekeeper at nursing home, stay at home mom  | ❌ | ❌ |
 | Madison Kanna | @MadisonKanna | Fashion Model | ✅ | ✅ |
 | Joel Griffith | @griffith_joel | Jazz Trumpet Player | ❌ | ❌ |
+| Kat Reinhart | @katreinhart | Neuroscientist | ❌ | ❌ |
