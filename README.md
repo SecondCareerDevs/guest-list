@@ -56,4 +56,4 @@ Copy the snippet below, add your details and submit a PR!
 | Madison Kanna | @MadisonKanna | Fashion Model | ✅ | ✅ |
 | Joel Griffith | @griffith_joel | Jazz Trumpet Player | ❌ | ❌ |
 | Kat Reinhart | @katreinhart | Neuroscientist | ❌ | ❌ |
-| Rich Finelli | @rich_ard_f | Software Consultant/Trainer/Tech Support | ❌ | ❌ |
+| Rich Finelli | @rich_ard_f | Software Trainer/Tech Support | ❌ | ❌ |
