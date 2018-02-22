@@ -57,3 +57,4 @@ Copy the snippet below, add your details and submit a PR!
 | Joel Griffith | @griffith_joel | Jazz Trumpet Player | ❌ | ❌ |
 | Kat Reinhart | @katreinhart | Neuroscientist | ❌ | ❌ |
 | Rich Finelli | @rich_ard_f | Software Trainer/Tech Support | ❌ | ❌ |
+| Ross Kaffenberger | @rossta | Science Teacher | ❌ | ❌ |
