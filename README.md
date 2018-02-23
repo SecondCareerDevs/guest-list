@@ -58,3 +58,4 @@ Copy the snippet below, add your details and submit a PR!
 | Kat Reinhart | @katreinhart | Neuroscientist | ❌ | ❌ |
 | Rich Finelli | @rich_ard_f | Software Trainer/Tech Support | ❌ | ❌ |
 | Yechiel Kalmenson | @yechielk | Rabbi/Teacher/Tech Support | ❌ | ❌ |
+| Ross Kaffenberger | @rossta | Science Teacher | ❌ | ❌ |
