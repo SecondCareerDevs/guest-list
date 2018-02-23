@@ -14,46 +14,46 @@ Copy the snippet below, add your details and submit a PR!
 
 | Name | Contact | Info | Scheduled? | Recorded? |
 |---|---|---|---|---|
-| Ashly LaMarr | @SurlyMae | Accountant | ✅ | ❌ |
-| Kelly Furness | @knfurness | Teacher | ❌ | ❌ |
-| Emily Freeman | @editingemily | Writer | ❌ | ❌ |
-| CodeRabbi | @coderabbi | Marketer and Rabbi | ❌ | ❌ |
-| Paul McBride | @ThePaulMcBride | Military | ✅ | ✅ |
-| Caitlyn Tetmeyer | @CaitlynTetmeyer | Peace Corps | ❌ | ❌ |
-| | @thestephwells | | ❌ | ❌ |
-| | @_lbaillie | Comic Artist | ❌ | ❌ |
-| | @kttravers | Art | ❌ | ❌ |
-| | @vaidehijoshi | Writer | ❌ | ❌ |
-| | @saronyitbarek | Writer | ❌ | ❌ |
-| Sal Hernandez | @clickclickonsal | Mechanic | ❌ | ❌ |
-| Sonia Gupta | @soniagupta504 | | ✅ | ✅ |
-| Johnny Grubb | @JohnnyGrubb | Musician | ❌ | ❌ |
-| David Kaye | @dfkaye | Outreach Ministry | ❌ | ❌ |
-| Oliver Turner | @oliverturner | Law | ❌ | ❌ |
-| JR Frazier | @jr_frazier1 | | ❌ | ❌ |
-| Aimee Knight | @Aimee_Knight | Figure Skater | ❌ | ❌ |
-| Ken Wheeler | @ken_wheeler | What hasn't this guy done? | ❌ | ❌ |
-| Jessica Grist | @thehackstress | Dancer, Costumer, Teacher | ❌ | ❌ |
-| Matt Rasband | @mattrasband | Financial Advisor | ❌ | ❌ |
-| Aaron Trank | @AaronTrank | Christian Minister | ❌ | ❌ |
+| Ashly LaMarr | [@SurlyMae](https://twitter.com/SurlyMae) | Accountant | ✅ | ❌ |
+| Kelly Furness | [@knfurness](https://twitter.com/knfurness) | Teacher | ❌ | ❌ |
+| Emily Freeman | [@editingemily](https://twitter.com/editingemily) | Writer | ❌ | ❌ |
+| CodeRabbi | [@coderabbi](https://twitter.com/coderabbi) | Marketer and Rabbi | ❌ | ❌ |
+| Paul McBride | [@ThePaulMcBride](https://twitter.com/ThePaulMcBride) | Military | ✅ | ✅ |
+| Caitlyn Tetmeyer | [@CaitlynTetmeyer](https://twitter.com/CaitlynTetmeyer) | Peace Corps | ❌ | ❌ |
+| | [@thestephwells](https://twitter.com/thestephwells) | | ❌ | ❌ |
+| | [@_lbaillie](https://twitter.com/_lbaillie) | Comic Artist | ❌ | ❌ |
+| | [@kttravers](https://twitter.com/kttravers) | Art | ❌ | ❌ |
+| | [@vaidehijoshi](https://twitter.com/vaidehijoshi) | Writer | ❌ | ❌ |
+| | [@saronyitbarek](https://twitter.com/saronyitbarek) | Writer | ❌ | ❌ |
+| Sal Hernandez | [@clickclickonsal](https://twitter.com/clickclickonsal) | Mechanic | ❌ | ❌ |
+| Sonia Gupta | [@soniagupta504](https://twitter.com/soniagupta504) | | ✅ | ✅ |
+| Johnny Grubb | [@JohnnyGrubb](https://twitter.com/JohnnyGrubb) | Musician | ❌ | ❌ |
+| David Kaye | [@dfkaye](https://twitter.com/dfkaye) | Outreach Ministry | ❌ | ❌ |
+| Oliver Turner | [@oliverturner](https://twitter.com/oliverturner) | Law | ❌ | ❌ |
+| JR Frazier | [@jr_frazier1](https://twitter.com/jr_frazier1) | | ❌ | ❌ |
+| Aimee Knight | [@Aimee_Knight](https://twitter.com/Aimee_Knight) | Figure Skater | ❌ | ❌ |
+| Ken Wheeler | [@ken_wheeler](https://twitter.com/ken_wheeler) | What hasn't this guy done? | ❌ | ❌ |
+| Jessica Grist | [@thehackstress](https://twitter.com/thehackstress) | Dancer, Costumer, Teacher | ❌ | ❌ |
+| Matt Rasband | [@mattrasband](https://twitter.com/mattrasband) | Financial Advisor | ❌ | ❌ |
+| Aaron Trank | [@AaronTrank](https://twitter.com/AaronTrank) | Christian Minister | ❌ | ❌ |
 | Priyanka Shah | email in DM from Suhas | Scientist doing Alzheimer's Research | ❌ | ❌ |
-| Niko | @codeswitched | | ❌ | ❌ |
-| Whitney Williams | @whitneyhacks | Fine Arts | ❌ | ❌ |
-| Kye Hohenberger | @tkh44 | Construction | ❌ | ❌ |
-| Sarah Drasner | @sarah_edo | Teacher | ❌ | ❌ |
-| Chris DeMars | @saltnburnem | Truck Driver | ❌ | ❌ |
-| Shane Barringer   | @shanebarringer  | B2B Sales  | ❌ | ❌ |
-| Ryan Florence | @ryanflorence | Sales | ❌ | ❌ |
-| Claire Niederberger | @clairenied | Exhibit/Environmental Design | ✅ | ✅ |
-| Marty Himmel | @MartyHimmel | Dental Technician | ❌ | ❌ |
-| Tracy Lee | @ladyleet | CEO of Food Startup | ❌ | ❌ |
-| Seán Stickle | @seanstickle | VP & Chief Strategy Officer at the Physician Assistant Education Association | ❌ | ❌ |
-| Bobby Johnson | @notmyself | Developer Advocate @ Auth0 | ✅ | ✅ |
-| @swyx | @swyx | Options Trader/ Hedge Fund Analyst => Software Eng at Two Sigma | ❌ | ❌ |
-| Andrew Cook | @codingwcookie | EMT | ✅ | ✅ |
-| Telmo Goncalves | @telmo | Warehouse Worker | ❌ | ❌ |
-| Christina Gorton| @coffeecraftcode | nanny, housekeeper at nursing home, stay at home mom  | ❌ | ❌ |
-| Madison Kanna | @MadisonKanna | Fashion Model | ✅ | ✅ |
-| Joel Griffith | @griffith_joel | Jazz Trumpet Player | ❌ | ❌ |
-| Kat Reinhart | @katreinhart | Neuroscientist | ❌ | ❌ |
-| Rich Finelli | @rich_ard_f | Software Trainer/Tech Support | ❌ | ❌ |
+| Niko | [@codeswitched](https://twitter.com/codeswitched) | | ❌ | ❌ |
+| Whitney Williams | [@whitneyhacks](https://twitter.com/whitneyhacks) | Fine Arts | ❌ | ❌ |
+| Kye Hohenberger | [@tkh44](https://twitter.com/tkh44) | Construction | ❌ | ❌ |
+| Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Teacher | ❌ | ❌ |
+| Chris DeMars | [@saltnburnem](https://twitter.com/saltnburnem) | Truck Driver | ❌ | ❌ |
+| Shane Barringer   | [@shanebarringer](https://twitter.com/shanebarringer)  | B2B Sales  | ❌ | ❌ |
+| Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | Sales | ❌ | ❌ |
+| Claire Niederberger | [@clairenied](https://twitter.com/clairenied) | Exhibit/Environmental Design | ✅ | ✅ |
+| Marty Himmel | [@MartyHimmel](https://twitter.com/MartyHimmel) | Dental Technician | ❌ | ❌ |
+| Tracy Lee | [@ladyleet](https://twitter.com/ladyleet) | CEO of Food Startup | ❌ | ❌ |
+| Seán Stickle | [@seanstickle](https://twitter.com/seanstickle) | VP & Chief Strategy Officer at the Physician Assistant Education Association | ❌ | ❌ |
+| Bobby Johnson | [@notmyself](https://twitter.com/notmyself) | Developer Advocate [@](https://twitter.com/ Auth0 | ✅ | ✅ |
+| [@swyx](https://twitter.com/swyx | [@swyx](https://twitter.com/swyx) | Options Trader/ Hedge Fund Analyst => Software Eng at Two Sigma | ❌ | ❌ |
+| Andrew Cook | [@codingwcookie](https://twitter.com/codingwcookie) | EMT | ✅ | ✅ |
+| Telmo Goncalves | [@telmo](https://twitter.com/telmo) | Warehouse Worker | ❌ | ❌ |
+| Christina Gorton| [@coffeecraftcode](https://twitter.com/coffeecraftcode) | nanny, housekeeper at nursing home, stay at home mom  | ❌ | ❌ |
+| Madison Kanna | [@MadisonKanna](https://twitter.com/MadisonKanna) | Fashion Model | ✅ | ✅ |
+| Joel Griffith | [@griffith_joel](https://twitter.com/griffith_joel) | Jazz Trumpet Player | ❌ | ❌ |
+| Kat Reinhart | [@katreinhart](https://twitter.com/katreinhart) | Neuroscientist | ❌ | ❌ |
+| Rich Finelli | [@rich_ard_f](https://twitter.com/rich_ard_f) | Software Trainer/Tech Support | ❌ | ❌ |
