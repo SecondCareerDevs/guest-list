@@ -7,9 +7,9 @@ These are guest names I gathered in the fall that I plan to reach out to. If you
 Copy the snippet below, add your details and submit a PR!
 
 ```
-| Full Name | [social-media-handle](url-to-social-media-profile)* | Previous Career | ❌ | ❌ |
+| Full Name | [social-media-handle](url-to-social-media-profile) | Previous Career | ❌ | ❌ |
 ```
-*if you prefer not to share your contact info publicly you can email me directly at [secondcareerdevs@gmail.com](mailto:secondcareerdevs@gmail.com)
+If you prefer not to share your contact info publicly you can email me directly at [secondcareerdevs@gmail.com](mailto:secondcareerdevs@gmail.com).
 
 ## The List
 
