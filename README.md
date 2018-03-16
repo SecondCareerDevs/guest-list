@@ -61,4 +61,5 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Ross Kaffenberger | [@rossta](https://twitter.com/rossta) | Science Teacher | ❌ | ❌ |
 | Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ❌ | ❌ |
 | Shannon Kendall | [@snkendall](https://twitter.com/snkendall) | Actress | ❌ | ❌ |
+| David Pine | [@davidpine7](https://twitter.com/davidpine7) | Landscaper | ❌ | ❌ |
 
