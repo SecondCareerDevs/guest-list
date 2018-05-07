@@ -22,6 +22,9 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Andrew Cook | [@codingwcookie](https://twitter.com/codingwcookie) | EMT | ✅ | ✅ |
 | Madison Kanna | [@MadisonKanna](https://twitter.com/MadisonKanna) | Fashion Model | ✅ | ✅ |
 | Ashly LaMarr | [@SurlyMae](https://twitter.com/SurlyMae) | Accountant | ✅ | ❌ |
+| Joel Griffith | [@griffith_joel](https://twitter.com/griffith_joel) | Jazz Trumpet Player | ✅ | ✅ |
+| Shannon Kendall | [@snkendall_](https://twitter.com/snkendall_) | Actress | ✅ | ✅ |
+| Chris Bedowidtz | [@CBedzz](https://twitter.com/CBedzz) | Finance | ✅ | ✅ |
 | Kelly Furness | [@knfurness](https://twitter.com/knfurness) | Teacher | ❌ | ❌ |
 | Emily Freeman | [@editingemily](https://twitter.com/editingemily) | Writer | ❌ | ❌ |
 | CodeRabbi | [@coderabbi](https://twitter.com/coderabbi) | Marketer and Rabbi | ❌ | ❌ |
@@ -46,20 +49,18 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Kye Hohenberger | [@tkh44](https://twitter.com/tkh44) | Construction | ❌ | ❌ |
 | Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Teacher | ❌ | ❌ |
 | Chris DeMars | [@saltnburnem](https://twitter.com/saltnburnem) | Truck Driver | ❌ | ❌ |
-| Shane Barringer | [@shanebarringer](https://twitter.com/shanebarringer)  | B2B Sales  | ❌ | ❌ |
+| Shane Barringer | [@shanebarringer](https://twitter.com/shanebarringer) | B2B Sales  | ❌ | ❌ |
 | Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | Sales | ❌ | ❌ |
 | Marty Himmel | [@MartyHimmel](https://twitter.com/MartyHimmel) | Dental Technician | ❌ | ❌ |
 | Tracy Lee | [@ladyleet](https://twitter.com/ladyleet) | CEO of Food Startup | ❌ | ❌ |
 | Seán Stickle | [@seanstickle](https://twitter.com/seanstickle) | VP & Chief Strategy Officer at the Physician Assistant Education Association | ❌ | ❌ |
-| Shawn Wang | [@swyx](https://twitter.com/swyx) | Options Trader/ Hedge Fund Analyst => Software Eng at Two Sigma | ❌ | ❌ |
+| Shawn Wang | [@swyx](https://twitter.com/swyx) | Options Trader/ Hedge Fund Analyst | ❌ | ❌ |
 | Telmo Goncalves | [@telmo](https://twitter.com/telmo) | Warehouse Worker | ❌ | ❌ |
 | Christina Gorton| [@coffeecraftcode](https://twitter.com/coffeecraftcode) | nanny, housekeeper at nursing home, stay at home mom  | ❌ | ❌ |
-| Joel Griffith | [@griffith_joel](https://twitter.com/griffith_joel) | Jazz Trumpet Player | ❌ | ❌ |
 | Kat Reinhart | [@katreinhart](https://twitter.com/katreinhart) | Neuroscientist | ❌ | ❌ |
 | Rich Finelli | [@rich_ard_f](https://twitter.com/rich_ard_f) | Software Trainer/Tech Support | ❌ | ❌ |
 | Yechiel Kalmenson | [@yechielk](https://twitter.com/yechielk) | Rabbi/Teacher/Tech Support | ❌ | ❌ |
 | Ross Kaffenberger | [@rossta](https://twitter.com/rossta) | Science Teacher | ❌ | ❌ |
 | Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ❌ | ❌ |
-| Shannon Kendall | [@snkendall_](https://twitter.com/snkendall_) | Actress | ❌ | ❌ |
 | David Pine | [@davidpine7](https://twitter.com/davidpine7) | Landscaper | ❌ | ❌ |
-
+| Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ❌ | ❌ |
