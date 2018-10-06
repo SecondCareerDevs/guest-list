@@ -64,3 +64,4 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ❌ | ❌ |
 | David Pine | [@davidpine7](https://twitter.com/davidpine7) | Landscaper | ❌ | ❌ |
 | Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ❌ | ❌ |
+| Rick West | [@rick_west8](https://twitter.com/rick_west_8) | Plumbing & Heating Engineer | ❌ | ❌ |
