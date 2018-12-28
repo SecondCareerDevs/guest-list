@@ -59,7 +59,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Rich Finelli | [@rich_ard_f](https://twitter.com/rich_ard_f) | Software Trainer/Tech Support | ❌ | ❌ |
 | Yechiel Kalmenson | [@yechielk](https://twitter.com/yechielk) | Rabbi/Teacher/Tech Support | ❌ | ❌ |
 | Ross Kaffenberger | [@rossta](https://twitter.com/rossta) | Science Teacher | ❌ | ❌ |
-| Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ✅ | ❌ |
+| Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ✅ | ✅ |
 | David Pine | [@davidpine7](https://twitter.com/davidpine7) | Landscaper | ❌ | ❌ |
 | Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ✅ | ❌ |
 | Rick West | [@rick_west8](https://twitter.com/rick_west8) | Plumbing & Heating Engineer | ❌ | ❌ |
