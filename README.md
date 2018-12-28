@@ -21,16 +21,14 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Bobby Johnson | [@notmyself](https://twitter.com/notmyself) | Developer Advocate @ Auth0 | ✅ | ✅ |
 | Andrew Cook | [@codingwcookie](https://twitter.com/codingwcookie) | EMT | ✅ | ✅ |
 | Madison Kanna | [@MadisonKanna](https://twitter.com/MadisonKanna) | Fashion Model | ✅ | ✅ |
-| Ashly LaMarr | [@SurlyMae](https://twitter.com/SurlyMae) | Accountant | ✅ | ❌ |
 | Joel Griffith | [@griffith_joel](https://twitter.com/griffith_joel) | Jazz Trumpet Player | ✅ | ✅ |
 | Shannon Kendall | [@snkendall_](https://twitter.com/snkendall_) | Actress | ✅ | ✅ |
 | Chris Bedowidtz | [@CBedzz](https://twitter.com/CBedzz) | Finance | ✅ | ✅ |
+| Jamon Holmgren | [@jamonholmgren](https://twitter.com/jamonholmgren) | Home Construction and Design | ✅ | ✅ |
 | Kelly Furness | [@knfurness](https://twitter.com/knfurness) | Teacher | ❌ | ❌ |
 | Emily Freeman | [@editingemily](https://twitter.com/editingemily) | Writer | ❌ | ❌ |
 | CodeRabbi | [@coderabbi](https://twitter.com/coderabbi) | Marketer and Rabbi | ❌ | ❌ |
 | Caitlyn Tetmeyer | [@CaitlynTetmeyer](https://twitter.com/CaitlynTetmeyer) | Peace Corps | ❌ | ❌ |
-| Stephanie Wells | [@thestephwells](https://twitter.com/thestephwells) | | ❌ | ❌ |
-| Lee Baillie | [@_lbaillie](https://twitter.com/_lbaillie) | Comic Artist | ❌ | ❌ |
 | Kate Travers | [@kttravers](https://twitter.com/kttravers) | Art | ❌ | ❌ |
 | Vaidehi Joshi | [@vaidehijoshi](https://twitter.com/vaidehijoshi) | Writer | ❌ | ❌ |
 | Saron Yitbarek | [@saronyitbarek](https://twitter.com/saronyitbarek) | Writer | ❌ | ❌ |
@@ -39,7 +37,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 | David Kaye | [@dfkaye](https://twitter.com/dfkaye) | Outreach Ministry | ❌ | ❌ |
 | Oliver Turner | [@oliverturner](https://twitter.com/oliverturner) | Law | ❌ | ❌ |
 | JR Frazier | [@jr_frazier1](https://twitter.com/jr_frazier1) | | ❌ | ❌ |
-| Aimee Knight | [@Aimee_Knight](https://twitter.com/Aimee_Knight) | Figure Skater | ❌ | ❌ |
+| Aimee Knight | [@Aimee_Knight](https://twitter.com/Aimee_Knight) | Figure Skater | ✅ | ❌ |
 | Ken Wheeler | [@ken_wheeler](https://twitter.com/ken_wheeler) | What hasn't this guy done? | ❌ | ❌ |
 | Jessica Grist | [@thehackstress](https://twitter.com/thehackstress) | Dancer, Costumer, Teacher | ❌ | ❌ |
 | Matt Rasband | [@mattrasband](https://twitter.com/mattrasband) | Financial Advisor | ❌ | ❌ |
@@ -48,7 +46,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Whitney Williams | [@whitneyhacks](https://twitter.com/whitneyhacks) | Fine Arts | ❌ | ❌ |
 | Kye Hohenberger | [@tkh44](https://twitter.com/tkh44) | Construction | ❌ | ❌ |
 | Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Teacher | ❌ | ❌ |
-| Chris DeMars | [@saltnburnem](https://twitter.com/saltnburnem) | Truck Driver | ❌ | ❌ |
+| Chris DeMars | [@saltnburnem](https://twitter.com/saltnburnem) | Truck Driver | ✅ | ❌ |
 | Shane Barringer | [@shanebarringer](https://twitter.com/shanebarringer) | B2B Sales  | ❌ | ❌ |
 | Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | Sales | ❌ | ❌ |
 | Marty Himmel | [@MartyHimmel](https://twitter.com/MartyHimmel) | Dental Technician | ❌ | ❌ |
@@ -61,7 +59,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Rich Finelli | [@rich_ard_f](https://twitter.com/rich_ard_f) | Software Trainer/Tech Support | ❌ | ❌ |
 | Yechiel Kalmenson | [@yechielk](https://twitter.com/yechielk) | Rabbi/Teacher/Tech Support | ❌ | ❌ |
 | Ross Kaffenberger | [@rossta](https://twitter.com/rossta) | Science Teacher | ❌ | ❌ |
-| Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ❌ | ❌ |
+| Jerome Hardaway | [@JeromeHardaway](https://twitter.com/jeromehardaway) | Air Force | ✅ | ❌ |
 | David Pine | [@davidpine7](https://twitter.com/davidpine7) | Landscaper | ❌ | ❌ |
-| Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ❌ | ❌ |
+| Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ✅ | ❌ |
 | Rick West | [@rick_west8](https://twitter.com/rick_west8) | Plumbing & Heating Engineer | ❌ | ❌ |
