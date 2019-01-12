@@ -37,7 +37,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 | David Kaye | [@dfkaye](https://twitter.com/dfkaye) | Outreach Ministry | ❌ | ❌ |
 | Oliver Turner | [@oliverturner](https://twitter.com/oliverturner) | Law | ❌ | ❌ |
 | JR Frazier | [@jr_frazier1](https://twitter.com/jr_frazier1) | | ❌ | ❌ |
-| Aimee Knight | [@Aimee_Knight](https://twitter.com/Aimee_Knight) | Figure Skater | ✅ | ❌ |
+| Aimee Knight | [@Aimee_Knight](https://twitter.com/Aimee_Knight) | Figure Skater | ✅ | ✅ |
 | Ken Wheeler | [@ken_wheeler](https://twitter.com/ken_wheeler) | What hasn't this guy done? | ❌ | ❌ |
 | Jessica Grist | [@thehackstress](https://twitter.com/thehackstress) | Dancer, Costumer, Teacher | ❌ | ❌ |
 | Matt Rasband | [@mattrasband](https://twitter.com/mattrasband) | Financial Advisor | ❌ | ❌ |
@@ -46,7 +46,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Whitney Williams | [@whitneyhacks](https://twitter.com/whitneyhacks) | Fine Arts | ❌ | ❌ |
 | Kye Hohenberger | [@tkh44](https://twitter.com/tkh44) | Construction | ❌ | ❌ |
 | Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Teacher | ❌ | ❌ |
-| Chris DeMars | [@saltnburnem](https://twitter.com/saltnburnem) | Truck Driver | ✅ | ❌ |
+| Chris DeMars | [@saltnburnem](https://twitter.com/saltnburnem) | Truck Driver | ✅ | ✅ |
 | Shane Barringer | [@shanebarringer](https://twitter.com/shanebarringer) | B2B Sales  | ❌ | ❌ |
 | Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | Sales | ❌ | ❌ |
 | Marty Himmel | [@MartyHimmel](https://twitter.com/MartyHimmel) | Dental Technician | ❌ | ❌ |
@@ -64,3 +64,5 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ✅ | ❌ |
 | Rick West | [@rick_west8](https://twitter.com/rick_west8) | Plumbing & Heating Engineer | ❌ | ❌ |
 | Shane Harper | [@rise_and_shane93](https://www.instagram.com/rise_and_shane93/) | Insurance Sales | ❌ | ❌ |
+| Grant Glidewell | [@GrantGlidewell](https://twitter.com/GrantGlidewell) | Drug & Addiction Recovery Consultant | ✅ | ✅ |
+| Ryan Hamblin | [@RyanLeeHamblin](https://twitter.com/RyanLeeHamblin) | Outdoor Education | ✅ | ✅ |
