@@ -63,3 +63,4 @@ If you prefer not to share your contact info publicly you can email me directly 
 | David Pine | [@davidpine7](https://twitter.com/davidpine7) | Landscaper | ❌ | ❌ |
 | Chloe Condon | [@ChloeCondon](https://twitter.com/ChloeCondon) | Actress | ✅ | ❌ |
 | Rick West | [@rick_west8](https://twitter.com/rick_west8) | Plumbing & Heating Engineer | ❌ | ❌ |
+| Shane Harper | [@rise_and_shane93](https://www.instagram.com/rise_and_shane93/) | Insurance Sales | ❌ | ❌ |
