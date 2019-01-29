@@ -66,3 +66,4 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Shane Harper | [@rise_and_shane93](https://www.instagram.com/rise_and_shane93/) | Insurance Sales | ❌ | ❌ |
 | Grant Glidewell | [@GrantGlidewell](https://twitter.com/GrantGlidewell) | Drug & Addiction Recovery Consultant | ✅ | ✅ |
 | Ryan Hamblin | [@RyanLeeHamblin](https://twitter.com/RyanLeeHamblin) | Outdoor Education | ✅ | ✅ |
+| Kara Luton | [@karaluton](https://twitter.com/karaluton) | Music Publicist & Ballerina | ❌ | ❌ |
