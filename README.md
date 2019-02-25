@@ -67,3 +67,4 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Grant Glidewell | [@GrantGlidewell](https://twitter.com/GrantGlidewell) | Drug & Addiction Recovery Consultant | ✅ | ✅ |
 | Ryan Hamblin | [@RyanLeeHamblin](https://twitter.com/RyanLeeHamblin) | Outdoor Education | ✅ | ✅ |
 | Kara Luton | [@karaluton](https://twitter.com/karaluton) | Music Publicist & Ballerina | ❌ | ❌ |
+| Scott Tolinski | [@stolinski](https://twitter.com/stolinski) | AV Tech, Accountant, Video Editor | ❌ | ❌ |
