@@ -69,3 +69,4 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Kara Luton | [@karaluton](https://twitter.com/karaluton) | Music Publicist & Ballerina | ❌ | ❌ |
 | Scott Tolinski | [@stolinski](https://twitter.com/stolinski) | AV Tech, Accountant, Video Editor | ❌ | ❌ |
 | Santiago Esteva | [@sesteva](https://twitter.com/sesteva) | Hotel Mgmt, Events Organization, Director Architecture | ❌  | ❌  |
+| Drew Clements | [@drewclemcr8](https://twitter.com/drewclemcr8) | Tattoo Artist | ❌  | ❌  |
