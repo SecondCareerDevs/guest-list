@@ -72,3 +72,4 @@ If you prefer not to share your contact info publicly you can email me directly 
 | Drew Clements | [@drewclemcr8](https://twitter.com/drewclemcr8) | Tattoo Artist, Graphic Designer | ❌  | ❌  |
 | Milecia McGregor | [@FlippedCoding](https://twitter.com/flippedcoding) | Mechanical and Aerospace Engineer | ❌  | ❌  |
 | Mike Behnke | [@LocalPCGuy](https://twitter.com/localpcguy) | Newspaper Printer | ❌ | ❌ |
+| Angel Garbarino | [@angelgarbarino](https://twitter.com/angelgarbarino) | Economist and Bartender | ❌ | ❌ |
