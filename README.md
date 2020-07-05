@@ -16,6 +16,7 @@ If you prefer not to share your contact info publicly you can email me directly 
 
 | Name | Contact | Info | Scheduled? | Recorded? |
 |---|---|---|---|---|
+| Graham Lutz | [@grahamlutz](https://twitter.com/grahamlutz) | Gym Owner, Neuroscience Research | ❌ | ❌ |
 | Paul McBride | [@ThePaulMcBride](https://twitter.com/ThePaulMcBride) | Military | ✅ | ✅ |
 | Sonia Gupta | [@soniagupta504](https://twitter.com/soniagupta504) | | ✅ | ✅ |
 | Claire Niederberger | [@clairenied](https://twitter.com/clairenied) | Exhibit/Environmental Design | ✅ | ✅ |
